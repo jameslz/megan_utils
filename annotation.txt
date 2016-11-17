@@ -1,0 +1,2 @@
+A	6	B,C,D,E,F,G
+A	4	A,B,F,H
